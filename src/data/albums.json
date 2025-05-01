@@ -1,0 +1,50 @@
+
+
+{
+  "bollywood": [
+    {
+      "name": "Aashiqui 2",
+      "artist": "Mithoon, Ankit Tiwari, Jeet Gannguli",
+      "youtubeMusicLink": "https://music.youtube.com/playlist?list=OLAK5uy_n72U17l7c76t7b1z075-c13bY4-a7O8jM",
+      "thumbnailPlaceholderSeed": "aashiqui-2"
+    },
+    {
+      "name": "Hamari Adhuri Kahani",
+      "artist": "Jeet Gannguli, Ami Mishra, Mithoon",
+      "youtubeMusicLink": "https://music.youtube.com/playlist?list=OLAK5uy_nZTDV-PIfUrX8i0Bi0M-l3HjRHUVk4P9k",
+      "thumbnailPlaceholderSeed": "hamari-adhuri-kahani"
+    },
+    {
+      "name": "Sanam Re",
+      "artist": "Mithoon, Jeet Gannguli, Amaal Mallik",
+      "youtubeMusicLink": "https://music.youtube.com/playlist?list=OLAK5uy_l0o9GTVr9G-mRtVmZoY0lAb0GpPcg0EcU",
+      "thumbnailPlaceholderSeed": "sanam-re"
+    },
+    {
+      "name": "Sanam Teri Kasam",
+      "artist": "Himesh Reshammiya",
+      "youtubeMusicLink": "https://music.youtube.com/playlist?list=OLAK5uy_nz8U_bueTWHPq2YHf1a0Q0QHtZObo5dWU",
+      "thumbnailPlaceholderSeed": "sanam-teri-kasam"
+    }
+  ],
+  "indie": [
+    {
+      "name": "Neendein",
+      "artist": "Mitraz",
+      "youtubeMusicLink": "https://music.youtube.com/playlist?list=OLAK5uy_k_RQBks-a-Loc0flief4oK8IGBfKNpzTw",
+      "thumbnailPlaceholderSeed": "in-the-loop-mitraz"
+    },
+    {
+      "name": "Zehen",
+      "artist": "Mitraz",
+      "youtubeMusicLink": "https://music.youtube.com/playlist?list=OLAK5uy_mWOrwXgE5zzEX2do6RnSuGWRR7KHDzmNg",
+      "thumbnailPlaceholderSeed": "in-your-arms-mitraz"
+    },
+    {
+      "name": "Love/Roses",
+      "artist": "Mitraz",
+      "youtubeMusicLink": "https://music.youtube.com/playlist?list=OLAK5uy_klNT9NDIgTGtIYr6DMLM1HYCvrtH2-BRw",
+      "thumbnailPlaceholderSeed": "lo-fi-high-mitraz"
+    }
+  ]
+}
